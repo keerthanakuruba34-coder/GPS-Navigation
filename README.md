@@ -5,4 +5,6 @@ User can also place hurdles(obstacles) one by one in the grid, by clicking in th
 Each press of 'r' in the keyboard places 100 hurdles(obstacles) at random positions in the grid. 
 After that the user can hit the "spacebar" to see the program finding out the shortest path between start and end point. 
 Press 'o' to clear the grid.
+
+
 <img width="2226" height="1336" alt="image" src="https://github.com/user-attachments/assets/d0f37425-a2ef-4437-a1ba-d5a0a24d785a" />
